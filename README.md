@@ -6,3 +6,5 @@ python code associated with professor Sung Kim's lecture
 ### 홍콩 과기대 김성훈 교수님 강의
 #### lab 부분 코드 작성 내용
 #### https://hunkim.github.io/ml/
+
+#### http://lifestudying.tistory.com/1
