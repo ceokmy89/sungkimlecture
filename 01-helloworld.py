@@ -13,10 +13,7 @@ hello = tf.constant('Hello, TensorFlow!')
 
 print(hello)
 
-
 # Start tf session
 sess = tf.Session()
 
 print(sess.run(hello))
-
-# print(sess.run(hello))
