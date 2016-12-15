@@ -7,4 +7,6 @@ python code associated with professor Sung Kim's lecture
 #### lab 부분 코드 작성 내용
 #### https://hunkim.github.io/ml/
 
+
+# 관련 내용 정리 blog
 #### http://lifestudying.tistory.com/1
